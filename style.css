@@ -39,7 +39,6 @@ body {
     border-radius: 10px;
 }
 .card__text {
-    width: 256px;
     display: flex;
     flex-direction: column;
     gap: 16px;
@@ -53,6 +52,7 @@ body {
 }
 
 .card__text p {
+    width: 256px;
     color: rgb(125, 136, 158);
     font-size: 15px;
     line-height: 19px;
